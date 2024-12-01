@@ -1,0 +1,30 @@
+.action-launcher {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .action-launcher h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .action-launcher button {
+    display: block;
+    width: 100%;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.6rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .action-launcher button:hover {
+    background-color: #2980b9;
+  }
+  

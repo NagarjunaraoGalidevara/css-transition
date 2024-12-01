@@ -1,0 +1,21 @@
+.case-favorite {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .case-favorite h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .case-favorite p {
+    background-color: #ecf0f1;
+    padding: 0.8rem;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
+  

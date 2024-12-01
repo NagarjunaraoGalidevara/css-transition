@@ -1,0 +1,15 @@
+.main-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
+    padding: 1rem;
+    height: calc(100vh - 80px); /* Adjusting for header height */
+    overflow: auto;
+  }
+  
+  .side-widgets {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  

@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ecf0f1;
+    padding: 1rem;
+    border-bottom: 1px solid #dcdde1;
+  }
+  
+  .header .tab-navigation span {
+    margin-right: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #34495e;
+  }
+  
+  .header .tab-navigation span:hover {
+    color: #3498db;
+  }
+  
+  .header .user-profile {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .header .user-profile .role {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+  
+  .header .user-profile .role:hover {
+    background-color: #2980b9;
+  }
+  
+  .header .user-profile .profile-picture {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
